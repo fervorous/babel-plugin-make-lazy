@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-make-lazy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/main.js",
   "url": "https://github.com/fervorous/babel-plugin-make-lazy",
   "homepage": "https://github.com/fervorous/babel-plugin-make-lazy",
