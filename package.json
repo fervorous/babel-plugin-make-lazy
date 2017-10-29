@@ -2,6 +2,16 @@
   "name": "babel-plugin-make-lazy",
   "version": "0.0.2",
   "main": "dist/main.js",
+  "url": "https://github.com/fervorous/babel-plugin-make-lazy",
+  "homepage": "https://github.com/fervorous/babel-plugin-make-lazy",
+  "keywords": [
+    "babel",
+    "plugin",
+    "lazy loading",
+    "webpack",
+    "bundle loader"
+  ],
+  "repository": "git@github.com:fervorous/babel-plugin-make-lazy.git",
   "author": "parris",
   "license": "MIT",
   "scripts": {
